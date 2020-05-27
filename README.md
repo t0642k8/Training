@@ -1,1 +1,1 @@
-# training
+# Welcome to Free Training
