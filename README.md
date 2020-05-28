@@ -4,4 +4,4 @@ ______________________________
 This is a collection of resources I have collected over time. 
 
 ## Teams
-https://www.youtube.com/watch?v=AIrD0zgUwhc
+ [Teams Basic and Beyond](https://www.youtube.com/watch?v=AIrD0zgUwhc)  Good started YouTube Video about Teams
