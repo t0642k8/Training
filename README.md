@@ -12,7 +12,7 @@ This is a collection of resources I have collected over time.
 
  [How to use Microsoft Teams, a demo tutorial (2019)](https://www.youtube.com/watch?v=CH2seLS5Wb0&t=94s) For Office worker and Admin
  
-  <img src="images/smile.jpg" width="50">[Microsoft Teams Updates | May 2020 and Beyond](https://www.youtube.com/watch?v=_IVOV3G8mZ4) Cool New Stuff
+  <img src="Images/smile.jpg" width="50">[Microsoft Teams Updates | May 2020 and Beyond](https://www.youtube.com/watch?v=_IVOV3G8mZ4) Cool New Stuff
  
  
  
