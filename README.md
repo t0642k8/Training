@@ -10,5 +10,12 @@ This is a collection of resources I have collected over time.
 
  [How to use Microsoft Teams for remote or Online learning](https://www.youtube.com/watch?v=LiEGspEwZ-E)  About Teams online learning
 
+ [How to use Microsoft Teams, a demo tutorial (2019)](https://www.youtube.com/watch?v=CH2seLS5Wb0&t=94s) For Office worker and Admin
+ 
+ 
+ 
+ ## Outlook
+ 
+  [How to change default meeting durations in Outlook)](https://www.youtube.com/watch?v=h4DWwKIOui0&t=12s) Change default meeting times in outlook
 
 ## SharePoint 2013
