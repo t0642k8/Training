@@ -10,11 +10,11 @@ This is a collection of resources I have collected over time.
 
  [How to use Microsoft Teams for remote or Online learning](https://www.youtube.com/watch?v=LiEGspEwZ-E)  About Teams online learning
 
- [How to use Microsoft Teams, a demo tutorial (2019)](https://www.youtube.com/watch?v=CH2seLS5Wb0&t=94s) For Office worker and Admin
+ [How to use Microsoft Teams, a demo tutorial (2019)](https://www.youtube.com/watch?v=CH2seLS5Wb0&t=94s) For Office worker and Admin)
  
   <img src="Images/smile.jpg" width="25">[Microsoft Teams Updates | May 2020 and Beyond](https://www.youtube.com/watch?v=_IVOV3G8mZ4) Cool New Stuff
  
- 
+ [Teams BOTs and Virtual Stuff](https://www.youtube.com/watch?v=D8XAGFcVAzQ&t=614s)
  
  
  ## Outlook
