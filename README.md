@@ -14,7 +14,7 @@ This is a collection of resources I have collected over time.
  
   <img src="Images/smile.jpg" width="25">[Microsoft Teams Updates | May 2020 and Beyond](https://www.youtube.com/watch?v=_IVOV3G8mZ4) Cool New Stuff
  
- [Teams BOTs and Virtual Stuff](https://www.youtube.com/watch?v=D8XAGFcVAzQ&t=614s)
+ [Microsoft Power Platform | Get Started & Latest Updates](https://www.youtube.com/watch?v=D8XAGFcVAzQ&t=614s)
  
  
  ## Outlook
